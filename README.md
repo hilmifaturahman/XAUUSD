@@ -101,6 +101,17 @@ XAUUSD/
 
 ## 🚀 Quick Start
 
+### GUI Application
+The project includes a simple graphical interface using `tkinter`. After installing dependencies, launch the GUI with:
+
+```bash
+python -m src.gui
+```
+
+The window provides fields for symbol and date range; results are logged and a chart is saved to `results/plots`.
+
+## 🚀 Quick Start
+
 ### Installation
 
 1. **Clone repository**
