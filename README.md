@@ -337,7 +337,7 @@ Always do your own research sebelum trading real money.
 
 Author: Hilmi Faturahman
 GitHub: https://github.com/hilmifaturahman
-Email: contact@example.com
+Email: hilmifaturahman17@gmail.com
 
 ---
 
